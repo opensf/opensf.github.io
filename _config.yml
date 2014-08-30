@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter: 			true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Open Science Forum
+tagline:          'Science Education'
+description:      'Science Institute. <br> CBSE | GSEB | ISC'
+url:              http://osf.me.
+baseurl:          /
+
+author:
+  name:           'OSF Internals'
+  url:            https://twitter.com/osfinternals
+
+paginate:         1
+
+# Custom vars
+#version:          1.0.0
+
+github:
+  repo:           https://github.com/openscienceforum
